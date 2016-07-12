@@ -20,8 +20,8 @@ class Product < ApplicationRecord
       throw :abort
     end
   end
+  def self.latest
+    order(:updated_at).last
+  end
 end
 
-def self.latest
-  order(:updated_at).last
-end
