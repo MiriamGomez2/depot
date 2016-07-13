@@ -20,6 +20,10 @@
           <%= render @cart %>
           <% end %>
       <% end %>
+
+
+      <%= render Order.find(session[:order_id]) if session[:order_id] -%>
+
     </div>
     <ul>
       <li><a href="http://www....">Home</a></li>
