@@ -83,7 +83,11 @@ development:
 #     url: <%= ENV['DATABASE_URL'] %>
 #
 production:
-  <<: *default
-  database: NewCar_production
-  username: NewCar
-  password: <%= ENV['NEWCAR_DATABASE_PASSWORD'] %>
+  adapter: mysql2
+    encoding: utf8
+    reconnect: false
+    database: depot_production
+    pool: 5
+    username: username
+    password: password
+    host: localhost

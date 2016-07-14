@@ -1,10 +1,14 @@
 source 'https://rubygems.org'
 # gem 'activemodel-serializers-xml'
+# gem 'activemerchant', '~> 1.58'
+# gem 'devise', '~> 3.0.0.rc'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '>= 5.0.0.racecar1', '< 5.1'
 # Use postgresql as the database for Active Record
-gem 'pg', '~> 0.18'
+gem 'pg', group: :development
+gem 'pg', group: :production
+gem 'rails_12factor', group: :production
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
@@ -40,8 +44,12 @@ group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console'
 end
-
+#group :production do
+  #gem 'mysql2'
+#end
+# gem 'rvm-capistrano', group: :development
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+gem 'kaminari', '~> 0.16'
 
