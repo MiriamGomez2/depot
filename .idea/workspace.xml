@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="054d0b50-fa0d-41f1-9d03-f3bd36f44511" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calm-spire-76684" afterPath="$PROJECT_DIR$/calm-spire-76684" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="NewCar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -568,7 +566,7 @@
       <workItem from="1471294490789" duration="451000" />
       <workItem from="1471295672740" duration="789000" />
       <workItem from="1471310891292" duration="730000" />
-      <workItem from="1471351768883" duration="4416000" />
+      <workItem from="1471351768883" duration="4741000" />
     </task>
     <servers />
   </component>
@@ -578,7 +576,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60160000" />
+    <option name="totallyTimeSpent" value="60485000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
