@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="054d0b50-fa0d-41f1-9d03-f3bd36f44511" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calm-spire-76684" afterPath="$PROJECT_DIR$/calm-spire-76684" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="NewCar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,8 +91,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="86">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -566,7 +567,7 @@
       <workItem from="1471294490789" duration="451000" />
       <workItem from="1471295672740" duration="789000" />
       <workItem from="1471310891292" duration="730000" />
-      <workItem from="1471351768883" duration="4741000" />
+      <workItem from="1471351768883" duration="5051000" />
     </task>
     <servers />
   </component>
@@ -576,7 +577,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60485000" />
+    <option name="totallyTimeSpent" value="60795000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -962,8 +963,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="86">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding />
         </state>
       </provider>
