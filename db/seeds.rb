@@ -6,6 +6,8 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+User.create(name: "admin",password: "123")
+
 Product.delete_all
 # . . .
 Product.create(title: 'Seven Mobile Apps in Seven Weeks',
@@ -18,6 +20,6 @@ Product.create(title: 'Seven Mobile Apps in Seven Weeks',
       experienced developer needing to expand your options. Plus, you’ll find
       out which cross-platform solution makes the most sense for your needs.
       </p>},
-               image_url: '7apps.jpg',
+               image_url: 'cs.jpg',
                price: 26.00)
 # . . .
